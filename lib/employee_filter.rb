@@ -1,21 +1,6 @@
 
 
 
-# class EmployeeFilter
-#
-#
-#   def new_employees
-#     # @employees = []
-#     #  EMPLYOYEES.each do |new|
-#     #    if new[:start_date][0] < 2006 << @employees
-#     #
-#     #    end
-#     #  end
-#     # @employees
-#
-#   end
-#
-# end
 
 
 class EmployeeFilter
